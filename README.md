@@ -3,7 +3,7 @@
 </ul>
 <h3 align="left">Open-Source Programs🌍</h3> 
 <ul>
- <p>🌟<b>Hacktoberfest'23</b>🌈👩‍💻</p>
+ <p>🌟<b>Hacktoberfest'23 </b>🌈👩‍💻 <a href="https://www.holopin.io/@rajpootjyoti700#badges" target="blank">click here to see my badges </a></p>
  <img src="banner2.png" alt="hacktober-badges" width="100%" height="200">
  <br>
  <br>
