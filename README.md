@@ -7,7 +7,7 @@
  <img src="banner2.png" alt="hacktober-badges" width="100%" height="200">
  <br>
  <br>
-<img align="right" all="coding" width="400" src="git_2.gif"
+<img align="right" all="coding" width="200" src="git_2.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajpootjyoti700&label=Profile%20views&color=0e75b6&style=flat" alt="rajpootjyoti700" /> </p>
 
