@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jyoti Rajpoot</h1>
 <h3 align="center">A passionate learner , java developer,coding Enthusiasts</h3>
-<img align="right" all="coding" width="400" src="github.gif"
+</ul>
+<h3 align="left">Open-Source Programs🌍</h3> 
+<ul>
+ <p>🌟<b>Hacktoberfest'23</b>🌈👩‍💻</p>
+ <img src="banner2.png" alt="hacktober-badges" width="100%" height="200">
+ <br>
+ <br>
+<img align="right" all="coding" width="400" src="git_2.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajpootjyoti700&label=Profile%20views&color=0e75b6&style=flat" alt="rajpootjyoti700" /> </p>
 
